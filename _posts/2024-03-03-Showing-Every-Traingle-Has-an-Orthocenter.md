@@ -4,6 +4,7 @@ title:  "Showing Every Traingle Has an Orthocenter"
 date:   2024-03-03
 categories: triangle-orthocenter
 image: /assets/article_images/2024-03-03-Orthocenter/ortho_prof.png
+class: post-template
 ---
 
 It is known that every triangle has an orthocenter, but do you know why? 
