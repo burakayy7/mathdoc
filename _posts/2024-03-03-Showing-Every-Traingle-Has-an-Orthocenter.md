@@ -14,7 +14,7 @@ Take any of the 3 vertices of a triangle. Now draw a line from that vertex to th
 Let's start here. First draw and triangle and label its three vertices, say, A, B, and C. Next, draw 2 altitudes, say from A and B. Obviously these will intersect at a point, say point O. Now, draw a 3rd line from the vertex C (that doesn't yet have an altitude assosciated with it) to the point O. Extend this line to the opposite side, side AB. Let the point which OC intersects side AB be point D.
 
 <!---[Triangle With Altitudes](https://github.com/burakayy7/mathdoc/blob/master/assets/article_images/2024-03-03-Orthocenter/ortho_triangle.png) --->
-!(assets/images/ortho_triangle.png](https://github.com/burakayy7/mathdoc/blob/2a116634887f6fe139b462bd2df083f76c397d1c/assets/images/ortho_triangle.png)
+!(assets/images/ortho_triangle.png](/assets/images/ortho_triangle.png)
 
 We wish to show that the angle formed by CDB (or CDA) is 90 degrees. Because if it is 90 degrees, that means it's perpendicular to side AB and that line also goes through vertex C, and so by definition, it will be an altitude. But more importantly, we would of shown that this third altitude also goes through point O. 
 
