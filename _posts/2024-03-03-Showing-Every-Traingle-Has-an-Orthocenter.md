@@ -16,7 +16,7 @@ Let's start here. First draw and triangle and label its three vertices, say, A, 
 <!---[Triangle With Altitudes](https://github.com/burakayy7/mathdoc/blob/master/assets/article_images/2024-03-03-Orthocenter/ortho_triangle.png) --->
 <!--- <img src="/assets/images/ortho-triangle.png" alt=""> --->
 
-![image](/posts/orthoTriangle.png)
+![image](assets/images/orthoTriangle.png)
 
 We wish to show that the angle formed by CDB (or CDA) is 90 degrees. Because if it is 90 degrees, that means it's perpendicular to side AB and that line also goes through vertex C, and so by definition, it will be an altitude. But more importantly, we would of shown that this third altitude also goes through point O. 
 
